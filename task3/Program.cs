@@ -1,0 +1,20 @@
+﻿// See https://aka.ms/new-console-template for more information
+// Console.WriteLine("Hello, World!");
+// double a = Convert.ToInt32(Console.ReadLine());
+// double b = Convert.ToInt32(Console.ReadLine());
+// var s=task3.Math.Add(a,b);
+// Console.WriteLine("Summa : "+s);
+// var t=task3.Math.Subtract(a,b);
+// Console.WriteLine("Subtract : "+t);
+// var z=task3.Math.Multiply(a,b);
+// Console.WriteLine("Multiply : "+z);
+// var d=task3.Math.Divide(a,b);
+// Console.WriteLine($"Divide : {d:F1}");
+var s=task3.Math.Add(5,15);
+Console.WriteLine("Summa : "+s);
+var t=task3.Math.Subtract(10,5);
+Console.WriteLine("Subtract : "+t);
+var z=task3.Math.Multiply(4,5);
+Console.WriteLine("Multiply : "+z);
+var d=task3.Math.Divide(7,5);
+Console.WriteLine($"Divide : {d:F1}");
